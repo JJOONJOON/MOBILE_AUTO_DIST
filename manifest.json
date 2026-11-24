@@ -1,0 +1,10 @@
+{
+  "version": "0.1.0",
+  "url": "bundle/0.1.0.bin",
+  "sha256": "8f911cadf6713dfbbaa4d2412e5a3bdd13dcd96d0307b5cf85544ccd69fda80d",
+  "size": 1312881,
+  "notice": "첫 배포",
+  "released_at": "2026-11-24 19:20:21",
+  "block_below": "0.0.0",
+  "min_launcher": "1.0.0"
+}
