@@ -1,10 +1,10 @@
 {
-  "version": "0.1.1",
-  "url": "bundle/0.1.1.bin",
-  "sha256": "f2f167c223c56e4bba72af7cbd744d2672e52abe759b9369bd93ae44c3c5e23b",
-  "size": 1860639,
-  "notice": "로그인 좌표 기록 추가 · 크롬 켜져 있는데 꺼짐으로 보이던 문제 수정 · 슬롯별 크롬 프로필(계정) 선택",
-  "released_at": "2026-11-24 20:06:43",
+  "version": "0.1.2",
+  "url": "bundle/0.1.2.bin",
+  "sha256": "e1482db75836ba7c55ef39110718c2da393c0a5034c22a30057520230cd6e85f",
+  "size": 2119488,
+  "notice": "실시간 원격 로그(개발자 확인용) 추가",
+  "released_at": "2026-11-24 20:13:05",
   "block_below": "0.0.0",
   "min_launcher": "1.0.0"
 }
