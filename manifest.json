@@ -1,10 +1,10 @@
 {
-  "version": "0.1.22",
-  "url": "bundle/0.1.22.bin",
-  "sha256": "b1c6d4455388f45b4b6cb23a452e723d992c8df7af3de0131d19f182f75443b7",
-  "size": 4579447,
-  "notice": "방송을 ID로 찾음(예약보다 일찍/늦게 시작해도 같은 방송) · 세션 감시 30초(PRISM_AUTO와 동일) · LIVE 중 로그인 만료 → 재로그인 후 라이브보드 재진입·속속톡 재확인",
-  "released_at": "2026-11-25 19:22:17",
+  "version": "0.1.23",
+  "url": "bundle/0.1.23.bin",
+  "sha256": "3e941e4fc2c34ebc09e81bf8967a38e0e229757d8e034063d7ece0c6b864debc",
+  "size": 4580346,
+  "notice": "화면 오류(KeyError result) 수정 — 이 오류로 자동 확인이 멈추던 문제 · 오류가 나도 자동 확인은 계속",
+  "released_at": "2026-11-25 19:50:36",
   "block_below": "0.0.0",
   "min_launcher": "1.0.0"
 }
