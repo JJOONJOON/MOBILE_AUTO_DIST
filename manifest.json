@@ -1,10 +1,10 @@
 {
-  "version": "0.1.4",
-  "url": "bundle/0.1.4.bin",
-  "sha256": "63d58237b5935688c4de399e16cdabc2f28895ef0f8807b27f81bc76f2857e8d",
-  "size": 2137962,
-  "notice": "로그인 좌표를 슬롯마다 따로 기록(첫 로그인 겸용) · 좌표 미기록 슬롯 표시",
-  "released_at": "2026-11-24 20:31:40",
+  "version": "0.1.5",
+  "url": "bundle/0.1.5.bin",
+  "sha256": "697679e2866dc76ca9547dcea97a3781c68f8e9f4e84e9cbc29d549b45cc8216",
+  "size": 2411573,
+  "notice": "슬롯별 예약 방송 목록 읽기 → '다음 방송' 표시 · [예약 다시 읽기]",
+  "released_at": "2026-11-25 09:38:05",
   "block_below": "0.0.0",
   "min_launcher": "1.0.0"
 }
