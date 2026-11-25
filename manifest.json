@@ -1,10 +1,10 @@
 {
-  "version": "0.1.17",
-  "url": "bundle/0.1.17.bin",
-  "sha256": "f8feca18cff9b1f8377b1d8a39b91df161c6285cfbc3afc1e5378723b5ebbd8e",
-  "size": 4565477,
-  "notice": "슬롯 등록하면 디버그 크롬을 바로 엽니다 (평소 크롬 프로필 복사 안 함 — 그 창에서 구글 로그인·확장 설치를 처음 한 번 직접)",
-  "released_at": "2026-11-25 18:12:55",
+  "version": "0.1.18",
+  "url": "bundle/0.1.18.bin",
+  "sha256": "dabadc3958e5d83b4c5abbb4b6c32e28f1c51e1a19086174e602e4d90c9b624c",
+  "size": 4566511,
+  "notice": "[▶ 전체 시작] 전에는 크롬 창만 띄우고 자동 동작 안 함 · [■ 전체 정지] 동작",
+  "released_at": "2026-11-25 18:28:26",
   "block_below": "0.0.0",
   "min_launcher": "1.0.0"
 }
