@@ -1,10 +1,10 @@
 {
-  "version": "0.1.9",
-  "url": "bundle/0.1.9.bin",
-  "sha256": "60cd0620cad43aa94f3e331f7f6c62ec34ee2ac38a98bf944bb0c81c8950306c",
-  "size": 3769777,
-  "notice": "등록된 PC 만 실행(PC 승인) — 처음 실행 시 보이는 PC 코드를 관리자에게 보내 주세요",
-  "released_at": "2026-11-25 11:57:42",
+  "version": "0.1.10",
+  "url": "bundle/0.1.10.bin",
+  "sha256": "1bf680902003431ff6cae1f6d4e59b25d32a75767de4cb30c533d2baabe6ae32",
+  "size": 4027565,
+  "notice": "원격 조작(서명된 명령만) · 크롬 실행 후 실제 응답/창 확인 로그",
+  "released_at": "2026-11-25 15:13:08",
   "block_below": "0.0.0",
   "min_launcher": "1.0.0"
 }
