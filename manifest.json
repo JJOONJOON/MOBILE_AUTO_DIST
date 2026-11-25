@@ -1,10 +1,10 @@
 {
-  "version": "0.1.23",
-  "url": "bundle/0.1.23.bin",
-  "sha256": "3e941e4fc2c34ebc09e81bf8967a38e0e229757d8e034063d7ece0c6b864debc",
-  "size": 4580346,
-  "notice": "화면 오류(KeyError result) 수정 — 이 오류로 자동 확인이 멈추던 문제 · 오류가 나도 자동 확인은 계속",
-  "released_at": "2026-11-25 19:50:36",
+  "version": "0.1.24",
+  "url": "bundle/0.1.24.bin",
+  "sha256": "72198a027ad97e6ba04faa5788dc5c5f7c701fbd7607e62147b4222d594cd468",
+  "size": 5177607,
+  "notice": "🏷 특가 설정 추가 — 슬롯을 골라 종료된 특가를 24시간 다시 적용 · 지금 적용 / 끝난 뒤로 예약 / 끝나면 자동 재적용 · 예약은 슬롯별 저장, 표에 '특가 예약' 칸",
+  "released_at": "2026-11-25 20:03:38",
   "block_below": "0.0.0",
   "min_launcher": "1.0.0"
 }
