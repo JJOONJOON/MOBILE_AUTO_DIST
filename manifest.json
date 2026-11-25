@@ -1,10 +1,10 @@
 {
-  "version": "0.1.6",
-  "url": "bundle/0.1.6.bin",
-  "sha256": "d9ef8ed630783c531c22d560dfe2909e88509e2bfe9734b9cd4f57525d8c1b51",
-  "size": 2716170,
-  "notice": "4단계: 방송 시작 시각부터 1분마다 LIVE 확인 → 라이브보드 진입·속속톡 ID·토글 3개 ON · [지금 실행]",
-  "released_at": "2026-11-25 09:58:18",
+  "version": "0.1.7",
+  "url": "bundle/0.1.7.bin",
+  "sha256": "d851676be63f9fec03b3a5441cf1066d72152b1095926e37a496eaed0d4acf72",
+  "size": 3001035,
+  "notice": "PRISM_AUTO 화면 예외 처리 이식: 크롬 대화상자·페이지 오류 모달 자동 닫기, 흰 화면 새로고침 확인, 토글 3개를 정확한 ID로",
+  "released_at": "2026-11-25 11:21:37",
   "block_below": "0.0.0",
   "min_launcher": "1.0.0"
 }
