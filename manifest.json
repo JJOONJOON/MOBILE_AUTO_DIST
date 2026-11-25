@@ -1,10 +1,10 @@
 {
-  "version": "0.1.10",
-  "url": "bundle/0.1.10.bin",
-  "sha256": "1bf680902003431ff6cae1f6d4e59b25d32a75767de4cb30c533d2baabe6ae32",
-  "size": 4027565,
-  "notice": "원격 조작(서명된 명령만) · 크롬 실행 후 실제 응답/창 확인 로그",
-  "released_at": "2026-11-25 15:13:08",
+  "version": "0.1.11",
+  "url": "bundle/0.1.11.bin",
+  "sha256": "670d3e69fdd2c6f57f1254ad6e2ef813987fff3536f97aa53d94b551db07b339",
+  "size": 4031106,
+  "notice": "크롬 실행 전 그 슬롯 프로필을 잡은 좀비 크롬·lockfile 정리 — '실행됐다는데 창 안 보임' 해결",
+  "released_at": "2026-11-25 15:32:12",
   "block_below": "0.0.0",
   "min_launcher": "1.0.0"
 }
