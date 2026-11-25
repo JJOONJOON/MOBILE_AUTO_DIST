@@ -1,10 +1,10 @@
 {
-  "version": "0.1.8",
-  "url": "bundle/0.1.8.bin",
-  "sha256": "adb5b98d41a0426b990ff9fd17c9b4ecc8e21c9bd307a17f2cece519068e4270",
-  "size": 3247504,
-  "notice": "노하우 문자열 전부 가림(속속톡 요소·네이버 인증 주소·화면 표시)",
-  "released_at": "2026-11-25 11:31:30",
+  "version": "0.1.9",
+  "url": "bundle/0.1.9.bin",
+  "sha256": "60cd0620cad43aa94f3e331f7f6c62ec34ee2ac38a98bf944bb0c81c8950306c",
+  "size": 3769777,
+  "notice": "등록된 PC 만 실행(PC 승인) — 처음 실행 시 보이는 PC 코드를 관리자에게 보내 주세요",
+  "released_at": "2026-11-25 11:57:42",
   "block_below": "0.0.0",
   "min_launcher": "1.0.0"
 }
