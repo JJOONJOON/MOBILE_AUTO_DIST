@@ -1,10 +1,10 @@
 {
-  "version": "0.1.15",
-  "url": "bundle/0.1.15.bin",
-  "sha256": "bc2b7ea4c7a27a0cfc4fa3deadb50859f427ef270e4187647f5f670333bf1e75",
-  "size": 4561225,
-  "notice": "v0.1.14 오류 수정 · PowerShell 창 깜빡임 제거 · 시작할 때 뒤에 남아 있던 슬롯 크롬도 창을 띄움",
-  "released_at": "2026-11-25 16:51:24",
+  "version": "0.1.16",
+  "url": "bundle/0.1.16.bin",
+  "sha256": "883a60568f94fda87690a8b21d4916c795b9e5ee44feaac74d5e649be5ab78fe",
+  "size": 4566091,
+  "notice": "세션 만료 시 기록된 좌표로 자동 로그인 + 스토어 선택 (실패하면 더 누르지 않고 '직접 로그인 필요') · 로그인 직후 바로 예약 다시 읽기",
+  "released_at": "2026-11-25 17:41:23",
   "block_below": "0.0.0",
   "min_launcher": "1.0.0"
 }
