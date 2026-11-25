@@ -1,10 +1,10 @@
 {
-  "version": "0.1.14",
-  "url": "bundle/0.1.14.bin",
-  "sha256": "b109737cf25550bdd0f8c45984ed9cc112ad09ef1459fd17510af395691c6641",
-  "size": 4561296,
-  "notice": "PowerShell 창 깜빡임 제거 · 시작할 때 뒤에 남아 있던 슬롯 크롬도 창을 띄움",
-  "released_at": "2026-11-25 16:44:47",
+  "version": "0.1.15",
+  "url": "bundle/0.1.15.bin",
+  "sha256": "bc2b7ea4c7a27a0cfc4fa3deadb50859f427ef270e4187647f5f670333bf1e75",
+  "size": 4561225,
+  "notice": "v0.1.14 오류 수정 · PowerShell 창 깜빡임 제거 · 시작할 때 뒤에 남아 있던 슬롯 크롬도 창을 띄움",
+  "released_at": "2026-11-25 16:51:24",
   "block_below": "0.0.0",
   "min_launcher": "1.0.0"
 }
