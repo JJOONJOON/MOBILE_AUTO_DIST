@@ -1,10 +1,10 @@
 {
-  "version": "0.1.7",
-  "url": "bundle/0.1.7.bin",
-  "sha256": "d851676be63f9fec03b3a5441cf1066d72152b1095926e37a496eaed0d4acf72",
-  "size": 3001035,
-  "notice": "PRISM_AUTO 화면 예외 처리 이식: 크롬 대화상자·페이지 오류 모달 자동 닫기, 흰 화면 새로고침 확인, 토글 3개를 정확한 ID로",
-  "released_at": "2026-11-25 11:21:37",
+  "version": "0.1.8",
+  "url": "bundle/0.1.8.bin",
+  "sha256": "adb5b98d41a0426b990ff9fd17c9b4ecc8e21c9bd307a17f2cece519068e4270",
+  "size": 3247504,
+  "notice": "노하우 문자열 전부 가림(속속톡 요소·네이버 인증 주소·화면 표시)",
+  "released_at": "2026-11-25 11:31:30",
   "block_below": "0.0.0",
   "min_launcher": "1.0.0"
 }
