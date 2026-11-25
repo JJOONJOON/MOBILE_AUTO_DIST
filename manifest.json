@@ -1,10 +1,10 @@
 {
-  "version": "0.1.5",
-  "url": "bundle/0.1.5.bin",
-  "sha256": "697679e2866dc76ca9547dcea97a3781c68f8e9f4e84e9cbc29d549b45cc8216",
-  "size": 2411573,
-  "notice": "슬롯별 예약 방송 목록 읽기 → '다음 방송' 표시 · [예약 다시 읽기]",
-  "released_at": "2026-11-25 09:38:05",
+  "version": "0.1.6",
+  "url": "bundle/0.1.6.bin",
+  "sha256": "d9ef8ed630783c531c22d560dfe2909e88509e2bfe9734b9cd4f57525d8c1b51",
+  "size": 2716170,
+  "notice": "4단계: 방송 시작 시각부터 1분마다 LIVE 확인 → 라이브보드 진입·속속톡 ID·토글 3개 ON · [지금 실행]",
+  "released_at": "2026-11-25 09:58:18",
   "block_below": "0.0.0",
   "min_launcher": "1.0.0"
 }
